@@ -50,9 +50,3 @@ The original raw meteorological data was obtained from a publicly available Kagg
 
 Only the raw data was used from Kaggle; all cleaning, feature engineering, and model development were done independently by the author.
 
-
-
-For questions or collaborations, please contact:  
-**Sarina Shahhosseini**  
-shahhos1@asu.edu  
-Ph.D. Student, Arizona State University
